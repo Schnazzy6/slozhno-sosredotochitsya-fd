@@ -9,4 +9,12 @@
     Так стили написанные ниже будут иметь больший вес,
     чем стили в медиазапросе предпочтений пользователя
   */
+
+  --cover-image-dark: url("../images/cover-image-dark.png");
+  --cover-image-light: url("../images/cover-image-light.png");
+  --razzmatazz: #ff0070;
+  --psychedelicpurple: #db00ff;
+  --colorforback: #000028;
+  --fairyTale: #f1b2ce;
+  --textcolorh: #ff0070;
 }
