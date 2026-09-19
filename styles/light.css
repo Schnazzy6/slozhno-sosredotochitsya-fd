@@ -24,7 +24,6 @@
 @media (prefers-color-scheme: light) {
   :root {
     --cover-image-dark: url("../images/cover-image-light.png");
-    --font-family: "IBM Plex mono", monospace;
     --razzmatazz: #ff8dcb;
     --psychedelicpurple: #ffc2e6;
     --colorforback: #353430;
